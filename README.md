@@ -1,3 +1,2 @@
 # mycv
-website version of my curriculum vitae
-isn't it true?
+website version of my old curriculum vitae
