@@ -1,2 +1,2 @@
 # mycv
-website version of my old curriculum vitae
+website version of my old curriculum vitae.
